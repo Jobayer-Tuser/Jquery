@@ -44,7 +44,7 @@
 	 
 		//this function is very good practice in jquery it means all the code will execute after the full content are ready
 		$(document).ready(function(){
-		/* 	$('p.para1').css('color', 'red');
+		 	$('p.para1').css('color', 'red');
 			$('p.para1').css({
 				color: 'red',
 				background: '#ccc',
@@ -79,7 +79,7 @@
 			
 			$('p').wrap('<h1>');//this convert p tag to h1 tag or put int inside h1 tag that wrap mean
 			$('p').wrapAll('<h1>');
-			*/
+			
 			$('#newItem').keyup(function(e){
 				var code = e.which;
 				

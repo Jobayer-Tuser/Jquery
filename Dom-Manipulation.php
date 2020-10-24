@@ -62,8 +62,8 @@
 			$('#myDiv').html('<h3>Hellow World</h3>');
 			alert($('myDiv').text());
 			
-			$('ul').append('<h1>Appen List Item</li>');
-			$('ul').prepend('<h1>Prepend List Item</li>');
+			$('ul').append('<li>Appen List Item</li>');
+			$('ul').prepend('<li>Prepend List Item</li>');
 			
 			$('.para1').appendTo('.para2');
 			$('.para1').prepend('.para2');

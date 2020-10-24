@@ -13,7 +13,7 @@
 <body>
 
 	<header>
-		<h1>Jquery Practice</h2>
+		<h2>Jquery Practice</h2>
 	</header>
 	
 	<div id="container">
